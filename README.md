@@ -1,0 +1,2 @@
+# autofounderai
+little project :)
